@@ -45,6 +45,6 @@ Instance Methods
 * `export(options?: ExportOptions)`: Exports the key pair.
 * `signer()`: Returns a signer object for signing data.
 * `verifier()`: Returns a verifier object for verifying signatures.
-* 
+
 # Attribution
 This code is based on the <a target="_blank" href="https://www.npmjs.com/package/@bloomprotocol/ecdsa-secp256k1-verification-key-2019">@bloomprotocol/ecdsa-secp256k1-verification-key-2019</a> package.
